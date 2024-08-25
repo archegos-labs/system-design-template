@@ -1,1 +1,1 @@
-# system-design-template
+# {{PROJECT_NAME}}
